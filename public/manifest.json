@@ -1,0 +1,17 @@
+{
+  "name": "Samvaad - Arranged Marriage Conversation Guide",
+  "short_name": "Samvaad",
+  "description": "A thoughtful guide to help you prepare for arranged marriage conversations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF6E3",
+  "theme_color": "#0D7377",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
